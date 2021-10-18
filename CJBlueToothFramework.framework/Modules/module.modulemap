@@ -1,0 +1,6 @@
+framework module CJBlueToothFramework {
+  umbrella header "CJBlueToothFramework.h"
+
+  export *
+  module * { export * }
+}
